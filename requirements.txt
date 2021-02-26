@@ -1,4 +1,6 @@
 pycaret==2.2.0
 nltk==3.3
 streamlit
-
+gunicorn==19.9.0
+certifi==2019.11.28
+itsdangerous==1.1.0
